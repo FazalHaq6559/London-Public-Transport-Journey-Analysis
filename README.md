@@ -52,7 +52,7 @@ The highest monthly journey volumes for the Emirates Airline are concentrated in
 
 This highlights the **limited scale and episodic demand** of this transport service.
 
-![Emirates Airline Peak Usage](images/emirates_airline.png)
+![Emirates Airline Peak Usage](images/emirates_airline.PNG)
 
 
 
